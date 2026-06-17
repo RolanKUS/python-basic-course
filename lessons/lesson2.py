@@ -87,7 +87,7 @@
 # print(n3)
 # #
 # # # v1
-# print(n1, n2, n3, sep=" - ")
+# print(n1,n2,n3, sep=" - ")
 # # # # v2
 # print(f"{n1}-{n2}-{n3}")
 # phone = "123456"
