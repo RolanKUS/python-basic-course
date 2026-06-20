@@ -147,7 +147,7 @@
 
 #
 # number_a = 10 if number_b < 5 else 20
-
+#
 # number_b = 30
 #
 # # v1
