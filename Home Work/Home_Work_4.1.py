@@ -21,5 +21,3 @@ for x in lst_1:
 print(lst_1, end = " -> ")
 print(new_lst)
 #
-#
-#
