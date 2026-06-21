@@ -19,13 +19,13 @@
 # - for
 
 # v1
-# i = 0
+# i = 3
 #
-# while i < 5:
+# while i <= 5:
 #     print(i, end=" ")
 #     i += 1  # i = i + 1
 #
-# print("test")
+# print("\ntest")
 
 # v2
 # import time
