@@ -397,7 +397,7 @@
 
 #
 # import random
-#
+# #
 # SIZE = 3
 # matrix = []
 #
@@ -412,8 +412,8 @@
 # print(matrix)
 # # #
 # # # # v1
-# # print(len(matrix))
-# # print()
+# print(len(matrix))
+# print()
 #
 # for i in range(len(matrix)):
 #     for j in range(len(matrix[i])):
